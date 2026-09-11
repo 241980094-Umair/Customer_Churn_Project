@@ -1,0 +1,4 @@
+Age,Tenure (Months),Usage Frequency,Support Calls,Payment Delay (Days),Total Spend ($),Last Interaction (Days ago),Contract Type,Gender,output,timestamp
+30,12,19,0,5,771,5.4,Annual,Female,Customer Will Stay,2026-09-11 10:50:58.309808
+30,22.2,19,8.9,5,771,5.4,Annual,Female,Customer Will Churn,2026-09-11 10:51:25.405785
+44.7,8.9,10.2,6.4,9,455,12.3,Quarterly,Male,Customer Will Churn,2026-09-11 10:54:17.148362
